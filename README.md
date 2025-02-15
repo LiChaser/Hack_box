@@ -6,7 +6,8 @@
 ![image](https://github.com/user-attachments/assets/b59d0445-4c8c-4600-bf07-db89f9d0b53b)
 
 添加工具类
-![image](https://github.com/user-attachments/assets/39ffdd80-f14e-42f5-9c20-6550a3d3fe90)
+![image](https://github.com/user-attachments/assets/a98dbb34-a645-4ff1-95dd-95de9abe7a97)
+
 
 支持中英文双语
 ![image](https://github.com/user-attachments/assets/aa4ea6f8-4ab8-40f0-97b0-eb2d25c6f261)
